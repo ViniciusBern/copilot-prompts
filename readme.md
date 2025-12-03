@@ -1,110 +1,226 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+## Roadmap de 150 Dias – Transição para Analista de Dados
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+Foco em Power BI, SQL e Inteligência Artificial
+Carga semanal: 14 horas
+Inclui criação e evolução contínua do GitHub desde o início.
 
-</p>
+## Objetivo Geral
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+Construir, ao longo de 150 dias, uma base sólida em análise de dados, desenvolver projetos aplicados, criar presença profissional online e preparar-se para entrevistas na área.
 
-<br/>
-<br/>
+Estrutura do Roadmap
 
-## 💻 Sobre o Projeto
+Fase 1 — Fundamentos + GitHub (Dias 1–30)
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+Fase 2 — Power BI Avançado (Dias 31–75)
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+Fase 3 — SQL + Bancos de Dados (Dias 76–120)
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+Fase 4 — Inteligência Artificial Aplicada a Dados (Dias 121–145)
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+Fase 5 — Portfólio + Empregabilidade (Dias 146–150)
 
-- _Exemplo_:
+Cada fase contém:
+Objetivos
+Tópicos de estudo
+Projetos
+Cursos gratuitos recomendados
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
 
-- [Outros pré-requisitos, se aplicável]
+## FASE 1 — Fundamentos + GitHub (Dias 1–30)
+Objetivos:
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+Criar e configurar um GitHub profissional.
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+Revisar conceitos centrais de análise de dados.
 
-- [Lista das habilidades principais a serem desenvolvidas]
+Introdução prática a SQL e boas práticas de versionamento.
 
-  - [Subhabilidades relacionadas, se aplicável]
+Conteúdos
+Papel e responsabilidades do Analista de Dados
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+Ciclo de análise: coleta, limpeza, modelagem, visualização, comunicação
 
-## 🎯 Objetivos e Resultados Esperados
+Estatística básica para dados
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+Conceitos fundamentais de SQL
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+Git e GitHub para versionamento
 
-<!--START_SECTION:footer-->
 
-<br />
-<br />
+Tarefas Práticas
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+Criar GitHub e README profissional
+
+Criar o repositório “Roadmap-Analista-de-Dados”
+
+Subir anotações semanais em Markdown
+
+Realizar um mini-projeto de limpeza de dados simples
+
+Cursos Gratuitos
+
+Git e GitHub — Curso em Vídeo
+
+Introdução à Análise de Dados — Google Data Analytics (módulo gratuito)
+
+Estatística Básica — Khan Academy
+
+SQL Básico — w3schools
+
+## FASE 2 — Power BI Avançado (Dias 31–75)
+
+Objetivos
+
+Desenvolver domínio em ETL, modelagem dimensional, DAX intermediário e construção de dashboards profissionais.
+
+Conteúdos
+
+Power Query avançado
+
+Modelagem dimensional (Star Schema)
+
+Medidas DAX essenciais
+
+Storytelling com dados
+
+Publicação e governança no Power BI Service
+
+Projetos Práticos
+
+Dashboard Financeiro
+
+Dashboard de Compras (conectado à sua área atual)
+
+Publicação no GitHub com README e imagens
+
+Cursos Gratuitos
+
+Power BI para Data Analytics — Microsoft Learn
+
+Power Query Introdução — Hashtag Treinamentos (YouTube)
+
+DAX Básico e Intermediário — SQLBI (conteúdo gratuito)
+
+## FASE 3 — SQL + Bancos de Dados (Dias 76–120)
+
+Objetivos
+
+Desenvolver domínio real em SQL e ampliar a capacidade de resolução de problemas analíticos.
+
+Conteúdos
+
+Joins avançados
+
+Subqueries e CTE
+
+Funções Window
+
+Manipulação de tabelas
+
+Escrita de consultas eficientes
+
+Projetos Práticos
+
+Análise de vendas com SQL
+
+Relatórios replicáveis com consultas complexas
+
+Criação do repositório “SQL-Portfolio” no GitHub
+
+Publicação de scripts com README estruturado
+
+
+Cursos Gratuitos
+
+SQL — Kaggle Learn
+
+PostgreSQL — PostgreSQL Tutorial
+
+Exercícios SQL — HackerRank
+
+## FASE 4 — IA Aplicada a Dados (Dias 121–145)
+
+Objetivos
+
+Aplicar Inteligência Artificial para automação, análise e geração de insights.
+
+Conteúdos
+
+IA generativa para análises
+
+Prompt engineering
+
+IA aplicada a SQL, DAX e ETL
+
+Limitações e cuidados com IA
+
+Assistentes inteligentes no Power BI
+
+
+Projetos Práticos
+
+Chatbot para responder perguntas sobre um dataset
+
+Automação com IA no fluxo de análise de dados
+
+Documentação completa no GitHub
+
+
+Cursos Gratuitos
+
+IA Generativa — Google Learn AI
+
+Introdução prática à IA para dados — YouTube (vários professores conceituados)
+
+Microsoft AI School (gratuito)
+
+
+## FASE 5 — Portfólio + Empregabilidade (Dias 146–150)
+
+Objetivos
+
+Organizar o portfólio profissional, fortalecer presença online e se preparar para entrevistas.
+
+
+Tarefas
+Criar README principal do portfólio
+
+Organizar repositórios:
+/powerbi-projects
+/sql-projects
+/ia-projects
+
+Criar currículo focado em dados
+
+Publicar case final no LinkedIn
+
+Simular entrevistas técnicas
+
+Recursos Gratuitos
+
+Perguntas SQL — LeetCode e HackerRank
+
+Entrevistas de Analista de Dados — YouTube (Luke Barousse, Data Professor)
+
+Modelos de currículo — Canva
+
+Projetos Obrigatórios ao Final do Roadmap
+
+Dashboard completo de Compras
+
+Projeto SQL com análise de um banco real
+
+Projeto Power BI + IA (ex.: chatbot analítico)
+
+Case integrado final publicado no GitHub
+
+Resultado Esperado ao Final dos 150 Dias
+
+Portfólio sólido no GitHub
+
+Domínio prático em Power BI, SQL e IA
+
+Projetos aplicados à área de Compras (diferencial competitivo)
+
+Preparação completa para processos seletivos para Analista de Dados
