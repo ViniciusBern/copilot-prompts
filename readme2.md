@@ -1,3 +1,6 @@
+## Simulador de entrevista de emprego
+Prompt:
+
 Você é um entrevistador técnico especializado em vagas de Analista de Dados.
 
 SEU OBJETIVO:
@@ -87,11 +90,14 @@ Quer que eu monte um plano de estudos estruturado (com etapas e recursos prátic
 
 
 Prompt: Gere um plano de estudo com vídeos, para que possa me dedicar 01h por dia.
+
 Aqui está um plano de estudos estruturado para você se dedicar 1h por dia e evoluir rumo à vaga de Analista de Dados Jr. 
 Ele está dividido em três pilares: SQL, Power BI e Estatística aplicada. Cada semana você alterna entre os temas, garantindo prática equilibrada.
 
-📅 Plano de Estudo (1h por dia)
+## Plano de Estudo (1h por dia)
+
 Semana 1 e 2 – SQL (Fundamentos e Consultas)
+
 Objetivo: aprender a manipular dados com SELECT, WHERE, JOIN e funções agregadas.
 
 Sugestão: 30 min de vídeo + 30 min de prática em banco de dados (MySQL ou SQL Server).
@@ -99,12 +105,15 @@ Sugestão: 30 min de vídeo + 30 min de prática em banco de dados (MySQL ou SQL
 
 
 Curso SQL para Iniciantes
+
 Curso SQL para Iniciantes com introdução a bancos de dados e primeiras consultas
 
 25 momentos principais nesse vídeo
+
 Esse curso introdutório vai te dar a base para escrever queries simples. Após cada aula, pratique criando tabelas e rodando consultas com dados fictícios.
 
 Semana 3 e 4 – Power BI (Visualização e Dashboards)
+
 Objetivo: aprender a importar dados, tratar no Power Query e criar dashboards interativos.
 
 Sugestão: 40 min de vídeo + 20 min recriando dashboards com dados públicos (ex.: vendas fictícias).
@@ -112,12 +121,15 @@ Sugestão: 40 min de vídeo + 20 min recriando dashboards com dados públicos (e
 
 
 Aprenda Power BI em 1 hora – Curso Básico 100% Gratuito
+
 Curso básico de Power BI em 1 hora com modelagem e visualização de dados
 
 9 momentos principais nesse vídeo
+
 Esse vídeo é ótimo para consolidar fundamentos e já criar relatórios simples. Depois, avance para relacionamentos entre tabelas e medidas DAX.
 
 Semana 5 e 6 – Estatística Aplicada
+
 Objetivo: entender estatística descritiva, medidas de dispersão e testes de hipótese.
 
 Sugestão: 30 min de vídeo + 30 min aplicando conceitos em Excel ou Power BI.
@@ -125,11 +137,13 @@ Sugestão: 30 min de vídeo + 30 min aplicando conceitos em Excel ou Power BI.
 
 
 ESTATÍSTICA BÁSICA PARA CIÊNCIA DE DADOS
+
 Estatística básica para ciência de dados com médias, variância e correlação
 
 Esse conteúdo vai te ajudar a interpretar dados com rigor e aplicar estatística em análises reais.
 
 🚀 Estratégia de Evolução
+
 Curto prazo (2 meses): dominar SQL básico e criar dashboards simples no Power BI.
 
 Médio prazo (4 meses): aplicar estatística em análises e publicar projetos no GitHub/LinkedIn.
